@@ -4,7 +4,7 @@
 
 - Ejercicio 1 
 
-Se realizo la instalación del ambiente para el desarrollo del trabajo práctico (Visual Studio Code y GIT y GIT Bash).
+	Se realizo la instalación del ambiente para el desarrollo del trabajo práctico (Visual Studio Code y GIT y GIT Bash).
     
  - Ejercicio 2 
   1.	¿Qué es un servidor HTTP? 
