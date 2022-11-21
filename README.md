@@ -56,8 +56,10 @@
 		El verbo GET es el que utiliza el navegador cuando accedemos a una pagina.
 
 
-  8.	Explicar brevemente qué son las estructuras de datos JSON y XML dando ejemplo de estructuras posibles.
-      •	JSON: es un formato de datos basado en la sintaxis de objeto de JavaScript, se utiliza para estructurar datos en forma de texto y permite el intercambio de                   información entre aplicaciones de manera sencilla, liviana y rápida. 
+  	8.	Explicar brevemente qué son las estructuras de datos JSON y XML dando ejemplo de estructuras posibles.
+  	
+		* JSON: es un formato de datos basado en la sintaxis de objeto de JavaScript, se utiliza para estructurar datos en forma de texto y permite el 				intercambio de información entre aplicaciones de manera sencilla, liviana y rápida. 
+		
               ```csharp
                   {
 	                  "firstName": "John",
