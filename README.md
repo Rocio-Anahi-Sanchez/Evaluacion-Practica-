@@ -18,12 +18,15 @@
 	
       		• GET: Obtiene el recurso indicado. Es el método que se utiliza cuando se pide el contenido de una página web, por ejemplo.
       		• HEAD: Similar a GET, pero no se obtiene el cuerpo de respuesta, únicamente los metadatos de la cabecera.
-      		• POST: añade datos al servidor. Siempre es un método de creación.
-      		• PUT: es una solicitud para almacenar la entidad suministrada en el URI indicado. Si la entidad no existe, se crea. Si la entidad existe, se actualiza.
-      		• DELETE: elimina el recurso indicado.
-      		• TRACE: devolverá la misma información que se ha enviado en la solicitud. Es una especie de eco. Sirve para comprobar si la solicitud se ha visto modificada por servidores intermedios.
+      		• POST: Añade datos al servidor. Siempre es un método de creación.
+      		• PUT: Es una solicitud para almacenar la entidad suministrada en el URI indicado. Si la entidad no existe, se crea. 
+		       Si la entidad existe, se actualiza.
+      		• DELETE: Elimina el recurso indicado.
+      		• TRACE: Devolverá la misma información que se ha enviado en la solicitud. Es una especie de eco. 
+			 Sirve para comprobar si la solicitud se ha visto modificada por servidores intermedios.
       		• OPTIONS: Devuelve los métodos HTTP soportados por el servidor para la URL especificada.
-      		• CONNECT: Convierte la solicitud en un tunel TCP/IP. Normalmente se usa para crear comunicaciones HTTPS a través de proxys HTTP sin encriptación.
+      		• CONNECT: Convierte la solicitud en un tunel TCP/IP. 
+		           Normalmente se usa para crear comunicaciones HTTPS a través de proxys HTTP sin encriptación.
       		• PATCH: Aplica modificaciones parciales al recurso especificado.
 
   3.	¿Qué es un request y un response en una comunicación HTTP? ¿Qué son los headers? 
