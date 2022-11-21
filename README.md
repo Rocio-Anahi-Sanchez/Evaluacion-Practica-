@@ -12,18 +12,18 @@
     	Con "Servidor web" podemos referirnos a hardware o software, o a ambos trabajando juntos. En cuanto a Hardware, un servidor web es una computadora que almacena 	el software de servidor web, y los archivos que componen un sitio web (por ejemplo, documentos HTML, imágenes, hojas de estilos CSS y archivos JavaScript). 
     	En cuanto a Software permite que los usuarios que quieren ver una página/sito web en su navegador puedan hacerlo.
 
-  2.	¿Qué son los verbos HTTP? Mencionar los más conocidos
+  	2. ¿Qué son los verbos HTTP? Mencionar los más conocidos
 
-    Son métodos de petición para indicar la acción que se desea realizar para un recurso determinado. Los mas conocidos son: 
-      •	GET: Obtiene el recurso indicado. Es el método que se utiliza cuando se pide el contenido de una página web, por ejemplo.
-      •	HEAD: Similar a GET, pero no se obtiene el cuerpo de respuesta, únicamente los metadatos de la cabecera.
-      •	POST: añade datos al servidor. Siempre es un método de creación.
-      •	PUT: es una solicitud para almacenar la entidad suministrada en el URI indicado. Si la entidad no existe, se crea. Si la entidad existe, se actualiza.
-      •	DELETE: elimina el recurso indicado.
-      •	TRACE: devolverá la misma información que se ha enviado en la solicitud. Es una especie de eco. Sirve para comprobar si la solicitud se ha visto modificada por                servidores intermedios.
-      •	OPTIONS: Devuelve los métodos HTTP soportados por el servidor para la URL especificada.
-      •	CONNECT: Convierte la solicitud en un tunel TCP/IP. Normalmente se usa para crear comunicaciones HTTPS a través de proxys HTTP sin encriptación.
-      •	PATCH: Aplica modificaciones parciales al recurso especificado.
+    	Son métodos de petición para indicar la acción que se desea realizar para un recurso determinado. Los mas conocidos son: 
+      		• GET: Obtiene el recurso indicado. Es el método que se utiliza cuando se pide el contenido de una página web, por ejemplo.
+      		• HEAD: Similar a GET, pero no se obtiene el cuerpo de respuesta, únicamente los metadatos de la cabecera.
+      		• POST: añade datos al servidor. Siempre es un método de creación.
+      		• PUT: es una solicitud para almacenar la entidad suministrada en el URI indicado. Si la entidad no existe, se crea. Si la entidad existe, se actualiza.
+      		• DELETE: elimina el recurso indicado.
+      		• TRACE: devolverá la misma información que se ha enviado en la solicitud. Es una especie de eco. Sirve para comprobar si la solicitud se ha visto modificada por servidores intermedios.
+      		• OPTIONS: Devuelve los métodos HTTP soportados por el servidor para la URL especificada.
+      		• CONNECT: Convierte la solicitud en un tunel TCP/IP. Normalmente se usa para crear comunicaciones HTTPS a través de proxys HTTP sin encriptación.
+      		• PATCH: Aplica modificaciones parciales al recurso especificado.
 
   3.	¿Qué es un request y un response en una comunicación HTTP? ¿Qué son los headers? 
 
