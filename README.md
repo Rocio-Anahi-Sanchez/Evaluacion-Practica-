@@ -39,7 +39,6 @@
 
     	Los códigos de estado de respuesta HTTP indican si se ha completado satisfactoriamente una solicitud HTTP específica. 
 	Las respuestas se agrupan en cinco clases:
-	
    	* 100s: Códigos informativos que indican que la solicitud iniciada por el navegador continúa.
     	* 200s: Los códigos con éxito regresaron cuando la solicitud del navegador fue recibida, entendida y procesada por el servidor.
     	* 300s: Códigos de redireccionamiento devueltos cuando un nuevo recurso ha sido sustituido por el recurso solicitado.
