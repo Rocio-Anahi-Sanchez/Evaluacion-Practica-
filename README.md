@@ -37,8 +37,8 @@
 
   	5.	¿Qué es el responseCode? ¿Qué significado tiene los posibles valores devueltos?
 
-    	Los códigos de estado de respuesta HTTP indican si se ha completado satisfactoriamente una solicitud HTTP específica. Las respuestas se agrupan en 		cinco clases:
-	
+    	Los códigos de estado de respuesta HTTP indican si se ha completado satisfactoriamente una solicitud HTTP específica. 
+	Las respuestas se agrupan en cinco clases:
 	
    	* 100s: Códigos informativos que indican que la solicitud iniciada por el navegador continúa.
     	* 200s: Los códigos con éxito regresaron cuando la solicitud del navegador fue recibida, entendida y procesada por el servidor.
