@@ -60,7 +60,7 @@
   	
 		* JSON: es un formato de datos basado en la sintaxis de objeto de JavaScript, se utiliza para estructurar datos en forma de texto y permite el 				intercambio de información entre aplicaciones de manera sencilla, liviana y rápida. 
 		
-              ```csharp
+ 
                   {
 	                  "firstName": "John",
 	                  "lastName": "Smith",
@@ -75,10 +75,10 @@
 	                    "646-123-4567"
 	                    ]
 	                }
-              ```
+			
 
-      • XML: es un lenguaje de marcado similar a HTML. Significa Extensible Markup Language (Lenguaje de Marcado Extensible) y es una especificación de W3C como                    lenguaje de marcado de propósito general. Esto significa que, a diferencia de otros lenguajes de marcado, XML no está predefinido, por lo que debes                    definir tus propias etiquetas. El propósito principal del lenguaje es compartir datos a través de diferentes sistemas, como Internet.
-              ```csharp
+      		* XML: es un lenguaje de marcado similar a HTML. Significa Extensible Markup Language (Lenguaje de Marcado Extensible) y es una especificación de W3C 			     como lenguaje de marcado de propósito general. Esto significa que, a diferencia de otros lenguajes de marcado, XML no está predefinido, por lo 			   que debes definir tus propias etiquetas. El propósito principal del lenguaje es compartir datos a través de diferentes sistemas, como Internet.
+      	
                   <libreria> 
                     <libro>
                       <autores>
@@ -104,8 +104,6 @@
                      <descriptores>
                    </libro> 
                 </libreria>
-	                
-              ```
 
   9.	Explicar brevemente el estándar SOAP
 
