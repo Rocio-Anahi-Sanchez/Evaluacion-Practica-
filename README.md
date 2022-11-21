@@ -46,6 +46,7 @@
 	* 400s: Códigos de error del cliente que indican que hubo un problema con la solicitud.
 	* 500s: Códigos de error del servidor que indican que la solicitud fue aceptada, pero que un error en el servidor impidió que se cumpliera.
 
+
   	6. ¿Cómo se envía la data en un Get y cómo en un POST? 
   	
   	El método GET envía los datos usando la URL, el método POST los envía de forma que no podemos verlos (en un segundo plano u "ocultos" al usuario).
