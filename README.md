@@ -31,19 +31,19 @@
   		Las Request HTTP son mensajes enviados por un cliente, para iniciar una acción en el servidor. Una vez que el servidor ha recibido y procesado la 		  solicitud, éste debe devolver un Response HTTP hacia el cliente. El mensaje de respuesta se compone de una línea de estado y cero o más campos de 			cabecera, seguido por una línea vacía. También puede tener opcionalmente un cuerpo del mensaje.
   	 	Los HTTP headers son la parte central de los HTTP requests y responses, y transmiten información acerca del navegador del cliente, de la página 		solicitada, del servidor, etc.
 
-  4.	¿Qué es un queryString? (En el contexto de una url)
+  	4. ¿Qué es un queryString? (En el contexto de una url)
 
-   Es la parte de una URL que contiene los datos que deben pasar a las aplicaciones web. permiten acceder a páginas web dinámicas con distintas variables consiguiendo    así que las páginas web no estén compuestas de decenas de directorios y permitiendo que su estructura esté basada en URLs amigables.
+   		Es la parte de una URL que contiene los datos que deben pasar a las aplicaciones web. permiten acceder a páginas web dinámicas con distintas variables 		       consiguiendo    así que las páginas web no estén compuestas de decenas de directorios y permitiendo que su estructura esté basada en URLs amigables.
 
-  5.	¿Qué es el responseCode? ¿Qué significado tiene los posibles valores devueltos?
+  	5.	¿Qué es el responseCode? ¿Qué significado tiene los posibles valores devueltos?
 
-    Los códigos de estado de respuesta HTTP indican si se ha completado satisfactoriamente una solicitud HTTP específica. Las respuestas se agrupan en cinco clases:
+    		Los códigos de estado de respuesta HTTP indican si se ha completado satisfactoriamente una solicitud HTTP específica. Las respuestas se agrupan en 		   cinco clases:
 
-    •	100s: Códigos informativos que indican que la solicitud iniciada por el navegador continúa.
-    •	200s: Los códigos con éxito regresaron cuando la solicitud del navegador fue recibida, entendida y procesada por el servidor.
-    •	300s: Códigos de redireccionamiento devueltos cuando un nuevo recurso ha sido sustituido por el recurso solicitado.
-    •	400s: Códigos de error del cliente que indican que hubo un problema con la solicitud.
-    •	500s: Códigos de error del servidor que indican que la solicitud fue aceptada, pero que un error en el servidor impidió que se cumpliera.
+   		* 100s: Códigos informativos que indican que la solicitud iniciada por el navegador continúa.
+    		* 200s: Los códigos con éxito regresaron cuando la solicitud del navegador fue recibida, entendida y procesada por el servidor.
+    		* 300s: Códigos de redireccionamiento devueltos cuando un nuevo recurso ha sido sustituido por el recurso solicitado.
+    		* 400s: Códigos de error del cliente que indican que hubo un problema con la solicitud.
+    		* 500s: Códigos de error del servidor que indican que la solicitud fue aceptada, pero que un error en el servidor impidió que se cumpliera.
 
   6.	¿Cómo se envía la data en un Get y cómo en un POST? 
 
