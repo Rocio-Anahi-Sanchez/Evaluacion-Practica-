@@ -7,11 +7,10 @@
 	Se realizo la instalación del ambiente para el desarrollo del trabajo práctico (Visual Studio Code y GIT y GIT Bash).
     
  - Ejercicio 2 
-  1.	¿Qué es un servidor HTTP? 
+  	1. ¿Qué es un servidor HTTP? 
 
-    Con "Servidor web" podemos referirnos a hardware o software, o a ambos trabajando juntos.
-    En cuanto a Hardware, un servidor web es una computadora que almacena el software de servidor web, y los archivos que componen un sitio web (por ejemplo,               documentos HTML, imágenes, hojas de estilos CSS y archivos JavaScript). 
-    En cuanto a Software permite que los usuarios que quieren ver una página/sito web en su navegador puedan hacerlo.
+    	Con "Servidor web" podemos referirnos a hardware o software, o a ambos trabajando juntos. En cuanto a Hardware, un servidor web es una computadora que almacena 	el software de servidor web, y los archivos que componen un sitio web (por ejemplo, documentos HTML, imágenes, hojas de estilos CSS y archivos JavaScript). 
+    	En cuanto a Software permite que los usuarios que quieren ver una página/sito web en su navegador puedan hacerlo.
 
   2.	¿Qué son los verbos HTTP? Mencionar los más conocidos
 
