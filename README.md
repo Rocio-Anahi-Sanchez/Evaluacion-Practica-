@@ -49,11 +49,11 @@
 
   	6. ¿Cómo se envía la data en un Get y cómo en un POST? 
   	
-	El método GET envía los datos usando la URL, el método POST los envía de forma que no podemos verlos (en un segundo plano u "ocultos" al usuario).
+		El método GET envía los datos usando la URL, el método POST los envía de forma que no podemos verlos (en un segundo plano u "ocultos" al usuario).
 
   	7. ¿Qué verbo http utiliza el navegador cuando accedemos a una página?
   	
-	El verbo GET es el que utiliza el navegador cuando accedemos a una pagina.
+		El verbo GET es el que utiliza el navegador cuando accedemos a una pagina.
 
 
   8.	Explicar brevemente qué son las estructuras de datos JSON y XML dando ejemplo de estructuras posibles.
