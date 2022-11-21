@@ -40,11 +40,11 @@
     	Los códigos de estado de respuesta HTTP indican si se ha completado satisfactoriamente una solicitud HTTP específica. 
 	Las respuestas se agrupan en cinco clases:
 	
-	* 100s: Códigos informativos que indican que la solicitud iniciada por el navegador continúa.
-	* 200s: Los códigos con éxito regresaron cuando la solicitud del navegador fue recibida, entendida y procesada por el servidor.
-	* 300s: Códigos de redireccionamiento devueltos cuando un nuevo recurso ha sido sustituido por el recurso solicitado.
-	* 400s: Códigos de error del cliente que indican que hubo un problema con la solicitud.
-	* 500s: Códigos de error del servidor que indican que la solicitud fue aceptada, pero que un error en el servidor impidió que se cumpliera.
+		* 100s: Códigos informativos que indican que la solicitud iniciada por el navegador continúa.
+		* 200s: Los códigos con éxito regresaron cuando la solicitud del navegador fue recibida, entendida y procesada por el servidor.
+		* 300s: Códigos de redireccionamiento devueltos cuando un nuevo recurso ha sido sustituido por el recurso solicitado.
+		* 400s: Códigos de error del cliente que indican que hubo un problema con la solicitud.
+		* 500s: Códigos de error del servidor que indican que la solicitud fue aceptada, pero que un error en el servidor impidió que se cumpliera.
 
 
   	6. ¿Cómo se envía la data en un Get y cómo en un POST? 
