@@ -27,9 +27,8 @@
       	 * PATCH: Aplica modificaciones parciales al recurso especificado.
 
   	3. ¿Qué es un request y un response en una comunicación HTTP? ¿Qué son los headers? 
-
-   	 Las Request HTTP son mensajes enviados por un cliente, para iniciar una acción en el servidor. Una vez que el servidor ha recibido y procesado la solicitud, 	       éste debe devolver un Response HTTP hacia el cliente. El mensaje de respuesta se compone de una línea de estado y cero o más campos de cabecera, seguido por 	     una línea vacía. También puede tener opcionalmente un cuerpo del mensaje.
-  	 Los HTTP headers son la parte central de los HTTP requests y responses, y transmiten información acerca del navegador del cliente, de la página solicitada, 	      del servidor, etc.
+  		Las Request HTTP son mensajes enviados por un cliente, para iniciar una acción en el servidor. Una vez que el servidor ha recibido y procesado la 		  solicitud, éste debe devolver un Response HTTP hacia el cliente. El mensaje de respuesta se compone de una línea de estado y cero o más campos de 			cabecera, seguido por una línea vacía. También puede tener opcionalmente un cuerpo del mensaje.
+  	 	Los HTTP headers son la parte central de los HTTP requests y responses, y transmiten información acerca del navegador del cliente, de la página 		solicitada, del servidor, etc.
 
   4.	¿Qué es un queryString? (En el contexto de una url)
 
