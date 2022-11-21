@@ -105,13 +105,13 @@
                    </libro> 
                 </libreria>
 
-  9.	Explicar brevemente el estándar SOAP
+  	9. Explicar brevemente el estándar SOAP
+  	
+  		SOAP es un protocolo estándar que se creó originalmente para posibilitar la comunicación entre las aplicaciones que se diseñaban con diferentes                         lenguajes y en distintas plataformas por medio de intercambio de datos XML.
 
-     SOAP es un protocolo estándar que se creó originalmente para posibilitar la comunicación entre las aplicaciones que se diseñaban con diferentes                        lenguajes y en distintas plataformas por medio de intercambio de datos XML.
-
- 10.	Explicar brevemente el estándar REST Full
-
-    Es una interfaz que dos sistemas de computación utilizan para intercambiar información de manera mas segura a través de internet. 
+ 	10. Explicar brevemente el estándar REST Full
+ 	
+ 		Es una interfaz que dos sistemas de computación utilizan para intercambiar información de manera mas segura a través de internet. 
     
  11.	¿Qué son los headers en un request? ¿Para qué se utiliza el key Content-type en un header?
 
