@@ -15,6 +15,7 @@
   	2. ¿Qué son los verbos HTTP? Mencionar los más conocidos
 
     	Son métodos de petición para indicar la acción que se desea realizar para un recurso determinado. Los mas conocidos son: 
+	
       		• GET: Obtiene el recurso indicado. Es el método que se utiliza cuando se pide el contenido de una página web, por ejemplo.
       		• HEAD: Similar a GET, pero no se obtiene el cuerpo de respuesta, únicamente los metadatos de la cabecera.
       		• POST: añade datos al servidor. Siempre es un método de creación.
