@@ -3,6 +3,7 @@
 ## ACTIVIDADES
 
 - Ejercicio 1 
+
 Se realizo la instalación del ambiente para el desarrollo del trabajo práctico (Visual Studio Code y GIT y GIT Bash).
     
  - Ejercicio 2 
