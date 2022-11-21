@@ -113,7 +113,7 @@
  	
  		Es una interfaz que dos sistemas de computación utilizan para intercambiar información de manera mas segura a través de internet. 
     
- 11.	¿Qué son los headers en un request? ¿Para qué se utiliza el key Content-type en un header?
+ 	11. ¿Qué son los headers en un request? ¿Para qué se utiliza el key Content-type en un header?
 
 - Ejercicio 3 
 
