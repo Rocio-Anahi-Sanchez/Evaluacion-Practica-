@@ -117,3 +117,16 @@
 
 - Ejercicio 3 
 
+	1. Realizar un request GET a la URL: https://procontacto-reclutamiento-default-rtdb.firebaseio.com/contacts.json
+	
+	2. Realizar un request POST a la URL anterior, y con body:
+		{
+			"name":"Tu nombre",
+			"email":tunombre.tuapellido@procontacto.com.mx
+		}
+		Tip: (Marcar la opción “raw” como body)
+
+	
+	3. Realizar nuevamente un request GET a la URL: https://procontacto-reclutamiento-default-rtdb.firebaseio.com/contacts.json
+		En la primera llamada a la url no se obtiene el registro insertado en el punto 2. Mientras que en el punto 3 se obtine el registro con mi nombre e 		   email.
+
