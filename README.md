@@ -119,7 +119,7 @@
 
 	1. Realizar un request GET a la URL: https://procontacto-reclutamiento-default-rtdb.firebaseio.com/contacts.json
 	
-	![ejercicio 3-1](https://github.com/Rocio-Anahi-Sanchez/Evaluacion-Practica-/blob/main/assets/ejercicio 3-1.png)
+	![ejercicio3-1](https://github.com/Rocio-Anahi-Sanchez/Evaluacion-Practica-/blob/main/assets/ejercicio3-1.png)
 	
 	2. Realizar un request POST a la URL anterior, y con body:
 		{
@@ -127,7 +127,7 @@
 			"email":tunombre.tuapellido@procontacto.com.mx
 		}
 		Tip: (Marcar la opción “raw” como body)
-	![ejercicio 3-2](https://github.com/Rocio-Anahi-Sanchez/Evaluacion-Practica-/blob/main/assets/ejercicio 3-2.png)
+	![ejercicio3-2](https://github.com/Rocio-Anahi-Sanchez/Evaluacion-Practica-/blob/main/assets/ejercicio3-2.png)
 	
 	3. Realizar nuevamente un request GET a la URL: https://procontacto-reclutamiento-default-rtdb.firebaseio.com/contacts.json
 	
